@@ -1,0 +1,11 @@
+$base-color: #c6538c;
+$color1:#c84;
+
+div {
+  background-color: $base-color;
+  height: 250px;
+  width: 350px;
+  ul{
+      background-color: $color1;
+  }
+}
